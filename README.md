@@ -43,7 +43,7 @@ The `files_list.txt` file must be located at the root/parent folder. Otherwise t
 
 ### Steps:
 
-  1. Select the `Upload` button
+  1. Select the `Upload` button and navigate to the list of files `txt` file
   2. Next, in the "Analysis Column" indicate where the text column is for that subset of files
      - i.e. column **C** for the Rollins transcripts, in our lab
        - That is the third column with all the transcribed utterances
